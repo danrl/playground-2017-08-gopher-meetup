@@ -1,0 +1,9 @@
+---
+zones:
+  - zone: demo.danrl.com
+    names:
+      - name: www
+        addresses:
+          literals:
+            - 2001:19f0:5001:224:5400:ff:fe48:3d5a
+            - 45.76.39.19
